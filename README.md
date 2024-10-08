@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imbishal7&label=Profile%20views&color=0e75b6&style=flat" alt="imbishal7" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow and R**
-
-- 💬 Ask me about **Python**
 
 - 📫 How to reach me **bishal998877@gmail.com**
 
